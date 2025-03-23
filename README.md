@@ -1,6 +1,6 @@
 # Data-Analysis-Dashboard-of-Covid-19-in-India
 I developed a comprehensive project in Tableau, by using multiple charts and creating a dashboard to visualize the data. This process involved several stages including data collection, data pre-processing and data visualization.
-Covid-19 in India Dashboard Analysis
+
 Introduction
 Coronaviruses are a large family of viruses that may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19 - World Health Organization. The number of new cases is increasing day by day around the world. This dataset has information from the states and union territories of India at a daily level. The state-level data comes from the Ministry of Health & Family Welfare, while the testing and vaccination data come from covid19india. Huge thanks to them for their efforts!
 
@@ -17,9 +17,6 @@ IndividualDetails.csv
 
 Key Changes in Administrative Boundaries
 The Union Territory of Jammu and Kashmir and the Union Territory of Ladakh were created on October 31, 2019, following the division of the Jammu and Kashmir State into two new Union Territories. The Union Territories of Daman and Diu and Dadra and Nagar Haveli were combined on January 26, 2020, creating the Union Territories of Dadra and Nagar Haveli and Daman and Diu.
-
-Geospatial Data
-Three types of shapefiles are available here: India boundary shapefile India States shapefile District-level Shapefiles
 
 About This Project
 In this project, we predict the cumulative number of confirmed COVID-19 cases in various locations across India, as well as the number of resulting fatalities for future dates. Our goal is to provide better methods for estimates that can assist medical and governmental institutions to prepare and adjust as pandemics unfold.
